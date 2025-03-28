@@ -1,8 +1,6 @@
 "use client";
 
-import Image from "next/image";
 import { HeroGeometric } from "@/components/ui/shape-landing-hero";
-import Link from "next/link";
 import { AnimatedBeamDemo } from "@/components/ui/animated-beam-demo";
 import { useState } from 'react';
 
@@ -132,7 +130,7 @@ export default function Home() {
               Implementation Timeline
             </h2>
             <p className="mt-4 text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-              A single comprehensive solution with flexible implementation options to meet your jurisdiction's needs.
+              A single comprehensive solution with flexible implementation options to meet your jurisdiction&apos;s needs.
             </p>
           </div>
 
