@@ -307,7 +307,7 @@ export default function Home() {
 
           <div className="mt-16 text-center">
             <div className="inline-flex items-center rounded-full bg-indigo-50 px-6 py-3 text-xl font-medium text-indigo-700 ring-1 ring-inset ring-indigo-700/10 dark:bg-indigo-900/30 dark:text-indigo-300 dark:ring-indigo-700/30">
-              <span className="font-bold">$120,000</span><span className="ml-2">Total Development Cost</span>
+              <span className="font-bold">$30,000</span><span className="ml-2">Total Development Cost</span>
             </div>
             <p className="mt-4 text-gray-600 dark:text-gray-300">
               Payment terms are flexible and can be discussed to meet your specific needs
